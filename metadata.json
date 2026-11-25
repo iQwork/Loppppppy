@@ -1,0 +1,8 @@
+{
+  "name": "منصة الدكتور ياسر ضياء الأسدي | Benign Cystic Lesions of the Oral Cavity",
+  "description": "منصة تعليمية طبية تفاعلية متكاملة لطب وجراحة الفم والأسنان — محاضرة الآفات الكيسية الحميدة في تجويف الفم (12 صفحة، 24 موضوعاً بتجارب تفاعلية بصرية، وبنك 72 سؤالاً).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
